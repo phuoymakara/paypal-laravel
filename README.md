@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<img alt="paypal" src="https://res.cloudinary.com/drosy6q2y/image/upload/v1724647715/samples/test-paypal_yzgw8l.png"/>
+
 ## About This Project
 
 - Laravel 11 or ^11
